@@ -1,0 +1,361 @@
+.top_div {
+    background-color: #af003d;
+    height: 52px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+
+.logo {
+   
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+
+.navbar_1 {
+    margin-top: 5px;
+    border-top: 1px solid #c7c7c7;
+    display: flex;
+    justify-content: center;
+    background-color: #f8f9fb;
+    color: black;
+    text-align: center; 
+}
+
+
+.navbar_2 {
+    margin-top: -80px;
+
+}
+
+.logo_image {
+    width: 250px;
+    text-align: center;
+}
+
+.logo_image_container {
+    width: 250px;
+    margin-left: 50px;
+}
+
+.icons {
+    width: 40px;
+    height: 40px;
+}
+
+
+.black {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.nav2 {
+    color: black;
+    font-weight: bold;
+    margin-left: 40px;
+}
+
+
+.covid {
+    background-color: black;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+
+}
+
+
+.covid_link {
+    text-decoration: underline;
+    color: white;
+}
+
+
+.container_carousel {
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 320px;
+}
+
+
+.last_div {
+   
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+
+.diverty {
+    background-color: #450015;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+
+.car_img {
+    width: 100%;
+    height: 320px;
+}
+
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin: 10px;
+    text-indent: 0;
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background-color: #f7f5f6;
+    box-shadow: inset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+
+.carousel-indicators .active {
+    background-color: black;
+}
+
+
+.carousel-indicators {
+    top: 325px;
+}
+
+
+.beauty_text {
+   
+    font-size: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.wow {
+    color: #bf0439;
+    font-style: italic;
+}
+
+
+.container_image {
+    margin: 0 auto;
+}
+
+
+.images_market {
+    width: 335px;
+    height: 360px;
+    margin-bottom: 40px;  
+}
+
+
+.bottom_text {
+    position: absolute;
+    background-color: black;
+    color: white;
+    width: 335px;
+    padding: 5px;
+    text-align: center;
+    top: 326px;
+}
+
+
+.diversty_image {
+    width: 40px;
+    height: 40px;
+   
+}
+
+.center_images {
+    margin: 0 auto;
+    width: 335px;
+}
+
+.price_text {
+    background-color: #b8023d;
+    width: 110px;
+    position: absolute;
+    font-size: 19px;
+    padding: 5px;
+    top: 190px;
+    left: 240px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+
+button.bt1,
+button.bt2 {
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    width: 250px;
+    border: none;
+    padding: 10px;
+   margin-bottom: 30px;
+}
+button.bt1{
+    margin: 10px;
+}
+
+
+button.bt3 {
+    background-color: #b8023d;
+    color: white;
+    font-size: 17px;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    margin-left: 40px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+button.bt3:hover {
+    background-color: black;
+}
+
+button.bt1:hover {
+    background-color: #b8023d;
+}
+
+
+.like_what {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+
+.contact_icons {
+    display: inline-block;
+    background-color: #b8023d;
+    border-radius: 50%;
+    font-size: 20px;
+    width: 30px;
+}
+
+
+.wall {
+    width: 300px;
+    height: 17px;
+    background-color: #eeeeee;
+    margin: 0 auto;
+}
+
+
+.everyday {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    padding: 20px;
+    background-color: #b8023d;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.cards {
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.card-body {
+    background-color: #f3f3f3;
+    padding: 0px;
+    box-shadow: 2px 3px 10px black;
+}
+
+.image_card {
+    width: 100%;
+}
+
+.card-title {
+    margin-top: 30px;
+    font-size: 33px;
+    margin-left: 40px;
+    width: 150px;
+}
+
+.card {
+    margin-bottom: 40px;
+}
+
+footer {
+    border-top: 4px solid #b8023d;
+    background-color: #f2f2f2;
+}
+
+.text_footer {
+    text-align: center;
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.ul_footer {
+    list-style: none;
+    border-right: 1px solid #787878;
+    margin-bottom: 70px;
+
+}
+
+.last_footer {
+    border: none;
+    margin-left: -40px;
+}
+
+
+.footer_a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+ul.ul_footer>li {
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+ul.ul_footer>h3 {
+    color: #787878;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+ul.ul_footer>li>a {
+    color: #787878;
+}
+
+ul.two_columns {
+    columns: 2;
+}
+
+
+.social_media {
+    margin-top: -20px;
+}
+
+.footer-copyright {
+    font-size: 12px;
+}
+
+.center {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.center_text {
+    text-align: center;
+}
